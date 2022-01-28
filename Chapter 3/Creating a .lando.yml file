@@ -1,0 +1,1 @@
+lando init --source cwd --recipe drupal9 --webroot web --name my-site –full
