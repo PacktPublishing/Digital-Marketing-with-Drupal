@@ -1,0 +1,1 @@
+composer create-project drupalcommerce/demo-project my_store --stability dev --no-interaction
