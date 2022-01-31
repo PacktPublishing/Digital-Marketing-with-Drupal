@@ -19,7 +19,7 @@ This book covers the following exciting features:
 * Get started with customizing your consumers' digital experience
 * Find out what's next for Drupal and digital marketing
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Digital-Marketing-Drupal-deploying-marketing-dp-1801071896/dp/1801071896/ref=mt_other?_encoding=UTF8&me=&qid=) today!
 
 
 ## Instructions and Navigations
