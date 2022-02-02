@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/digital-marketing-with-drupal/9781801071895"><img src="https://static.packt-cdn.com/products/9781801071895/cover/smaller" alt="Digital Marketing with Drupal" height="256px" align="right"></a>
 
-This is the code repository for [DIY Microcontroller Projects for Hobbyists](https://www.packtpub.com/product/digital-marketing-with-drupal/9781801071895), published by Packt.
+This is the code repository for [Digital Marketing with Drupal](https://www.packtpub.com/product/digital-marketing-with-drupal/9781801071895), published by Packt.
 
 **The ultimate guide to build and deploy a complete digital marketing platform on top of Drupal**
 
