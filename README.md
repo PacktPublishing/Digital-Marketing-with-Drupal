@@ -59,3 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is the founder and CEO of Bloomidea, a Digital Marketing Agency. They've been making digital businesses grow since 2006. His work has received multiple awards and has helped his clients achieve remarkable success. For well over a decade, they've been creating amazing digital experiences with Drupal.
 He has also been a member of the Drupal community for over 15 years, developing modules, providing assistance, and taking part in various community-related activities.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801071895">https://packt.link/free-ebook/9781801071895 </a> </p>
